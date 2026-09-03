@@ -1,0 +1,4 @@
+arquivos_servidor/
+downloads/
+__pycache__/
+*.pyc
